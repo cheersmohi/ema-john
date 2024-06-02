@@ -1,0 +1,83 @@
+.form-container {
+  width: 550px;
+  margin: 0 auto;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.form-title {
+  text-align: center;
+  font-size: 35px;
+  color: #2a414f;
+  font-weight: 400;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  width: 415px;
+  height: 40px;
+  border: 1px solid #95a0a7;
+  border-sizing: border-box;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.form-submit {
+  width: 415px;
+  height: 55px;
+  background-color: rgba(255, 153, 0, 0.3);
+  border-radius: 5px;
+  font-size: 20px;
+  border: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.form-submit:hover {
+  background-color: rgba(255, 153, 0, 0.5);
+}
+
+.form-link {
+  color: ##ff9900;
+  text-decoration: None;
+}
+
+.or-element {
+  /* display: flex; */
+}
+
+.google-button {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid white;
+  background: whitesmoke;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.google-button:hover {
+  background-color: #e7e7e7;
+  box-shadow:
+    0 3px 3px 0 rgba(0, 0, 0, 0.15),
+    0 0px 2px 0 rgba(0, 0, 0, 0.8);
+}
+
+.form-pera {
+  text-align: center;
+  font-size: 15px;
+}

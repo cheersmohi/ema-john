@@ -1,6 +1,0 @@
-{
-  "apexskier.typescript.config.userPreferences.allowIncompleteCompletions" : false,
-  "apexskier.typescript.config.userPreferences.useLabelDetailsInCompletionEntries" : false,
-  "index.enabled" : true,
-  "prettier.default-config.arrowParens" : "always"
-}
